@@ -1,5 +1,7 @@
 # Social Media Feed App - CIRCLE
 
+[![Header](https://raw.githubusercontent.com/thenifemi/ddd_feed/main/assets/circle_photos/circle_poster.png 'Header')](https://raw.githubusercontent.com/thenifemi/ddd_feed/main/assets/circle_photos/circle_poster.png)
+
 This repository contains the code for a simple social media feed app built in Flutter that showcases DDD Clean Architecture and separation of concerns. The app has a well-defined domain layer, application layer, presentation layer, and infrastructure layer, making it easy to maintain and scale.
 
 Based on [**Building Flutter Projects with DDD Clean Architecture: A Series on Separation of Concerns and State Management.**](https://www.thenifemi.com/articles/ddd-series-intro)
