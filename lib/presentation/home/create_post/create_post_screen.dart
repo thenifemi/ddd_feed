@@ -24,7 +24,6 @@ class CreatePostScreen extends HookWidget {
 
     return BlocConsumer<PostsBloc, PostsState>(
       listener: (context, state) {
-        print(state);
         state.failureOrUnitOption.fold(
           () => {},
           (either) => either.fold(

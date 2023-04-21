@@ -16,15 +16,15 @@ To get started with the app, follow these steps:
 
 ## Architecture
 
-The app follows DDD Clean Architecture principles to ensure _separation of concerns and modularity_. The _Presentation Layer_ is responsible for the user interface and presentation logic, while the _Application Layer_ contains the business logic of the application. The _Domain Layer_ contains the core domain entities and logic, while the _Infrastructure Layer_ deals with the implementation details such as databases, network communication, and other external dependencies.
+The app follows DDD Clean Architecture principles to ensure **separation of concerns and modularity**. The **Presentation Layer** is responsible for the user interface and presentation logic, while the **Application Layer** contains the business logic of the application. The **Domain Layer** contains the core domain entities and logic, while the **Infrastructure Layer** deals with the implementation details such as databases, network communication, and other external dependencies.
 
 ## Packages Used
 
 The app uses several packages, including:
 
-- _flutter_bloc_ with _provider_ for state management.
-- _get_it_ with _injectable_ for dependency injection.
-- _dartz_ for functional programming.
+- **flutter_bloc** with **provider** for state management.
+- **get_it** with **injectable** for dependency injection.
+- **dartz** for functional programming.
   and more.
 
 ## Contributing
@@ -35,8 +35,8 @@ Contributions to the app are welcome. To contribute, follow these steps:
 2. Create a new branch for your changes.
 3. Make your changes and commit them to your branch.
 4. Create a pull request with a description of your changes.
-5. Assign @thenifemi to review your pull request.
-6. Wait for your pull request to be merged.
+5. Assign **@thenifemi** to review your pull request.
+6. Wait for your pull request to be reviewed and merged.
 
 ## License
 
